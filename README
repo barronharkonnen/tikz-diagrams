@@ -1,3 +1,5 @@
 This is my document for creating diagrams for my classes in latex, using tikz.
 
 I make the pdfs by calling ":make [doc name].pdf" from within vim.
+
+dbstyledoc.tex contains the styling commands for nodes that I have found useful for Chen notation in my database class.
