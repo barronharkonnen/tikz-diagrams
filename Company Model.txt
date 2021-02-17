@@ -1,0 +1,11 @@
+Company Database
+
+A database is being designed for a company that will track employees, departments, and projects. Use the following data to develop the database. Develop an entity relationship diagram identifying all entities, attributes, and relationships. List any assumptions.
+
+Database requirements:
+1 Each of the employees has a first, middle, and last name, address, salary, date of birth, social security number, supervisor, and the department they work for.
+2 Each of the departments has a name, number, employees, a department manager, and one or more locations.
+3 The company also wants to track when managers started managing a department and how many employees are currently working for each department.
+4 Each of the company’s projects are identified by their name and number and are tied to a Department. 
+5 The database will need to track which department is in control of a project, which employees are working on a project, and for how many hours they worked on the project. 
+6 For tax and insurance purposes the company is required to track the name, date of birth and relationship type of any of its employees' dependents.

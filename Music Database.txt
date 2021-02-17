@@ -1,0 +1,15 @@
+Music Database
+
+
+A music database stores details of a personal music library, and could be used to manage your MP3, CD, or vinyl collection. Because this database is for a personal collection, it’s relatively simple and stores only the relationships between artists, albums, and tracks. Use the following data to develop the database. Develop an entity relationship diagram identifying all entities, attributes, and relationships. List any assumptions. 
+
+ 
+Database requirements:
+1 The collection consists of albums.
+2 An album is made by exactly one artist which has a unique id.
+3 An artist makes one or more albums.
+4 An album contains one or more tracks
+5 Artists, albums, and tracks each have a name.
+6 Each track is on exactly one album.
+7 Each track has a time length, measured in seconds.
+8 When a track is played, the date and time the playback began (to the nearest second) should be recorded; this is used for reporting when a track was last played, as well as the number of times music by an artist, from an album, or a track has been played.

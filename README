@@ -1,0 +1,3 @@
+This is my document for creating diagrams for my classes in latex, using tikz.
+
+I make the pdfs by calling ":make [doc name].pdf" from within vim.
